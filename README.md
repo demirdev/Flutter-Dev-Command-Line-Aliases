@@ -1,4 +1,4 @@
-# Mobile App Developer Aliases
+# Mobile App Developer Commands Aliases
 
 # add aliases to your shell rc file.
 
