@@ -18,6 +18,9 @@ alias fc='flutter clean'
 
 alias fpg='flutter pub get'
 
+# build app bundle and open its folder
+alias fbb='flutter build appbundle &&  open build/app/outputs/bundle/release/'
+
 # build apk and open apk folder
 alias fba='flutter build apk && open build/app/outputs/flutter-apk/'
 
