@@ -20,6 +20,12 @@ alias fc='flutter clean'
 # flutter pub get
 alias fpg='flutter pub get'
 
+# open assets
+alias fas=' open assets'
+
+# open android res directory
+alias fandres='open android/app/src/main/res'
+
 # build app bundle and then open containing folder right away
 alias fbb='flutter build appbundle &&  open build/app/outputs/bundle/release/'
 
